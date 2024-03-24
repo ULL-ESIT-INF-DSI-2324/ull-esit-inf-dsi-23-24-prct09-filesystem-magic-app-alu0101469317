@@ -1,0 +1,26 @@
+{
+  "2": {
+    "id": 2,
+    "name": "Nombre de la carta",
+    "manaCost": 3,
+    "color": "Rojo",
+    "type": "Criatura",
+    "rarity": "Rara",
+    "rulesText": "Descripción de la carta",
+    "strength": 2,
+    "toughness": 2,
+    "marketValue": 10
+  },
+  "3": {
+    "id": 3,
+    "name": "Nombre de la carta",
+    "manaCost": 3,
+    "color": "Multicolor",
+    "type": "Criatura",
+    "rarity": "Rara",
+    "rulesText": "Descripción de la carta",
+    "strength": 2,
+    "toughness": 2,
+    "marketValue": 10
+  }
+}

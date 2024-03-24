@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Serra Angel",
+    "manaCost": 5,
+    "color": "Blanco",
+    "type": "Creature",
+    "rarity": "Uncommon",
+    "rulesText": "Flying, vigilance"
+  },
+  {
+    "id": 2,
+    "name": "Shivan Dragon",
+    "manaCost": 6,
+    "color": "Rojo",
+    "type": "Creature",
+    "rarity": "Rare",
+    "rulesText": "Flying"
+  }
+]

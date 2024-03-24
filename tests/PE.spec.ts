@@ -1,7 +1,7 @@
 import 'mocha';
 import {expect} from 'chai';
-import {Notificacion , NotificacionObserver, NotificacionClickEventType} from '../src/notifications.js'
-import { Event } from '../src/event.js';
+import {Notificacion , NotificacionObserver, NotificacionClickEventType} from '../src/PE/notifications.js'
+import { Event } from '../src/PE/event.js';
 /**
  * Test for basicFunctions.js
  */
